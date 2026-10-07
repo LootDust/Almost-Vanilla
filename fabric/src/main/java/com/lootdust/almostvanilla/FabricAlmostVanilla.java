@@ -1,8 +1,9 @@
-package com.example.examplemod;
+package com.lootdust.almostvanilla;
 
+import com.lootdust.almostvanilla.event.FabricEvents;
 import net.fabricmc.api.ModInitializer;
 
-public class ExampleMod implements ModInitializer {
+public class FabricAlmostVanilla implements ModInitializer {
 
     @Override
     public void onInitialize() {
@@ -12,7 +13,8 @@ public class ExampleMod implements ModInitializer {
         // project.
 
         // Use Fabric to bootstrap the Common mod.
-        Constants.LOG.info("Hello Fabric world!");
         CommonClass.init();
+
+        FabricEvents.bootStrap();
     }
 }

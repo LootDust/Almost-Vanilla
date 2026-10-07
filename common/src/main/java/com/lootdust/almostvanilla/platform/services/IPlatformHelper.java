@@ -1,4 +1,4 @@
-package com.example.examplemod.platform.services;
+package com.lootdust.almostvanilla.platform.services;
 
 public interface IPlatformHelper {
 
