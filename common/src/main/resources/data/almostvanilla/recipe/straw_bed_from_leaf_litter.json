@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "LLL",
+        "LLL",
+        "LLL"
+    ],
+    "key": {
+        "L": "minecraft:leaf_litter"
+    },
+    "result": {
+        "id": "minecraft:straw_bed"
+    }
+}

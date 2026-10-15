@@ -1,0 +1,13 @@
+{
+    "replace": true,
+    "values": [
+        "#minecraft:common_smith/level_3",
+        "minecraft:armorer/3/lava_bucket_emerald",
+        "almostvanilla:armorer/3/emerald_iron_leggings",
+        "almostvanilla:armorer/3/emerald_iron_boots",
+        "almostvanilla:armorer/3/emerald_iron_helmet",
+        "almostvanilla:armorer/3/emerald_iron_chestplate",
+        "minecraft:armorer/3/emerald_shield",
+        "minecraft:armorer/3/diamond_emerald"
+    ]
+}

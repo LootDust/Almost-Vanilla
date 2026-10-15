@@ -1,0 +1,12 @@
+{
+    "gives": {
+        "id": "minecraft:emerald_block"
+    },
+    "max_uses": 12,
+    "reputation_discount": 0.05,
+    "wants": {
+        "count": 15,
+        "id": "minecraft:coal_block"
+    },
+    "xp": 2
+}

@@ -1,0 +1,34 @@
+{
+    "gives": {
+        "id": "minecraft:globe_banner_pattern",
+        "components": {
+            "!minecraft:provides_banner_patterns": {},
+            "minecraft:damage": 0,
+            "minecraft:equippable": {
+                "slot": "chest",
+                "equip_sound": "item.armor.equip_elytra",
+                "asset_id": "minecraft:elytra",
+                "damage_on_hurt": false
+            },
+            "minecraft:glider": {},
+            "minecraft:item_model": "minecraft:elytra",
+            "minecraft:item_name": {
+                "translate": "item.minecraft.elytra",
+                "extra": [
+                    {
+                        "text": "?"
+                    }
+                ]
+            },
+            "minecraft:max_damage": 54,
+            "minecraft:rarity": "uncommon"
+        }
+    },
+    "max_uses": 12,
+    "reputation_discount": 0.2,
+    "wants": {
+        "count": 21,
+        "id": "minecraft:emerald"
+    },
+    "xp": 30
+}

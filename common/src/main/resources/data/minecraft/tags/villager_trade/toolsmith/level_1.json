@@ -1,0 +1,10 @@
+{
+    "replace": true,
+    "values": [
+        "#minecraft:common_smith/level_1",
+        "almostvanilla:toolsmith/1/emerald_copper_axe",
+        "almostvanilla:toolsmith/1/emerald_copper_shovel",
+        "almostvanilla:toolsmith/1/emerald_copper_pickaxe",
+        "almostvanilla:toolsmith/1/emerald_copper_hoe"
+    ]
+}

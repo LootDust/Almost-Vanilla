@@ -1,0 +1,10 @@
+{
+    "replace": true,
+    "values": [
+        "#minecraft:common_smith/level_1",
+        "almostvanilla:armorer/1/emerald_copper_leggings",
+        "almostvanilla:armorer/1/emerald_copper_boots",
+        "almostvanilla:armorer/1/emerald_copper_helmet",
+        "almostvanilla:armorer/1/emerald_copper_chestplate"
+    ]
+}

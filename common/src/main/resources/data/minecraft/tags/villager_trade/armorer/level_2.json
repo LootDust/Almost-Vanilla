@@ -1,0 +1,10 @@
+{
+    "replace": true,
+    "values": [
+        "#minecraft:common_smith/level_2",
+        "almostvanilla:armorer/2/emerald_chainmail_leggings",
+        "almostvanilla:armorer/2/emerald_chainmail_boots",
+        "almostvanilla:armorer/2/emerald_chainmail_helmet",
+        "almostvanilla:armorer/2/emerald_chainmail_chestplate"
+    ]
+}
